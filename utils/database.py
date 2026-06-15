@@ -1,5 +1,6 @@
 """
 SQLite database for storing quiz history and results.
+By Ahmad Faizan
 """
 
 import sqlite3
