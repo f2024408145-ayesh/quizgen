@@ -1,5 +1,6 @@
 """
 History Screen — shows all saved quiz sessions.
+made by Ahmad Faizan
 """
 
 import tkinter as tk
