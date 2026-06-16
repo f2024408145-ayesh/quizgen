@@ -1,5 +1,6 @@
 """
 Quiz Screen — presents MCQ questions, records answers, submits.
+By "Malik Abdul Moeed Khan"
 """
 
 import tkinter as tk
