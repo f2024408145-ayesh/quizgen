@@ -44,7 +44,7 @@ class QuizApp(tk.Tk):
         self.screens = {}
         self._build_screens()
         self.show_screen("home")
-
+#build screen  for better visualization
     def _build_screens(self):
         for ScreenClass in (HomeScreen, QuizScreen, ResultsScreen, HistoryScreen):
             name = ScreenClass.NAME
